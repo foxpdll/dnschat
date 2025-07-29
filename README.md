@@ -1,0 +1,1 @@
+Chat over DNS only
